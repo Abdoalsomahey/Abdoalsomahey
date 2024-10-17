@@ -12,8 +12,6 @@ I'm always eager to explore new areas like **cybersecurity**, and I'm actively i
 - **Tools:** Git, Docker, Linux, WebSocket
 - **Areas of Interest:** Cybersecurity, Web Development, Game Development, Systems Programming
 
-## 📈 GitHub Stats
-![Abdulraheem's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ## 💡 Projects
 Here are a few highlights of what I've worked on:

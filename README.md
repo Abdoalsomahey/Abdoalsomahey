@@ -7,8 +7,8 @@ I'm a dedicated software development student at [42 Abu Dhabi](https://www.42abu
 I'm always eager to explore new areas like **cybersecurity**, and I'm actively improving my skills through hands-on projects and collaborative efforts. My goal is to work on meaningful projects that push the boundaries of technology.
 
 ## 🌟 Skills and Interests
-- **Languages:** C, C++, Python, JavaScript, TypeScript
-- **Web Technologies:** HTML, CSS, Django, Flask, Node.js
+- **Languages:** C, C++, Python, JavaScript
+- **Web Technologies:** HTML, CSS, Django
 - **Tools:** Git, Docker, Linux, WebSocket
 - **Areas of Interest:** Cybersecurity, Web Development, Game Development, Systems Programming
 

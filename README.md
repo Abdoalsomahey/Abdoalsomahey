@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Abdulraheem! 👋
 
-<!--
-**Abdoalsomahey/Abdoalsomahey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a dedicated software development student at [42 Abu Dhabi](https://www.42abudhabi.ae/) with a passion for learning and creating innovative solutions. I enjoy working with various programming languages and technologies, including **C/C++**, **Python**, and **web development**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always eager to explore new areas like **cybersecurity**, and I'm actively improving my skills through hands-on projects and collaborative efforts. My goal is to work on meaningful projects that push the boundaries of technology.
+
+## 🌟 Skills and Interests
+- **Languages:** C, C++, Python, JavaScript, TypeScript
+- **Web Technologies:** HTML, CSS, Django, Flask, Node.js
+- **Tools:** Git, Docker, Linux, WebSocket
+- **Areas of Interest:** Cybersecurity, Web Development, Game Development, Systems Programming
+
+## 📈 GitHub Stats
+![Abdulraheem's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## 💡 Projects
+Here are a few highlights of what I've worked on:
+
+### 🕹️ [Pong Multiplayer Game](https://github.com/your-username/pong-game)
+A real-time multiplayer Pong game built using Django, WebSocket, and JavaScript. Players can challenge each other in a fun, fast-paced game.
+
+
+## 🌱 Currently Learning
+- Advanced C++ algorithms
+- Penetration testing and network security tools
+- TypeScript for scalable web applications
+
+## 📫 How to Reach Me
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/abdulraheem-alsomahey-035426232)
